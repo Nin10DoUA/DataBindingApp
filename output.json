@@ -1,0 +1,12 @@
+{
+  "id" : 14,
+  "firstName" : "Evgeniy",
+  "lastName" : "Dmitriev",
+  "active" : true,
+  "address" : {
+    "street" : "Zavalna",
+    "country" : "Ukraine",
+    "city" : "Kyiv"
+  },
+  "languages" : [ "Java", "C#", "Swift" ]
+}

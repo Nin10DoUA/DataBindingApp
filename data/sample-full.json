@@ -1,0 +1,13 @@
+{
+  "id": 14,
+  "firstName": "Evgeniy",
+  "lastName": "Dmitriev",
+  "active": true,
+  "address": {
+      "street": "Zavalna",
+      "city": "Kyiv",
+      "country": "Ukraine"
+  },
+  "languages" : ["Java", "C#", "Swift"],
+  "company": "Ignored property"
+}
